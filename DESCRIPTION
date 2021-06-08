@@ -11,5 +11,6 @@ Encoding: UTF-8
 LazyData: true
 Imports: 
   blastula,
-  logger
+  logger,
+  httr
 RoxygenNote: 7.1.1
